@@ -1,0 +1,3 @@
+export const LOAD_DEFAULT_REQUEST = "React_redux/LOAD_DEFAULT_REQUEST"
+export const LOAD_DEFAULT_SUCCESS= "React_redux/LOAD_DEFAULT_SUCCESS"
+export const LOAD_DEFAULT_FAILURE = "React_redux/LOAD_DEFAULT_FAILURE"
